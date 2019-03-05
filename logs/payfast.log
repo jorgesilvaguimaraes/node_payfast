@@ -1,0 +1,8 @@
+info:{ Moment:2019-03-05T19:41:47.759Z , Message:Consultando pagamento-40 }
+info:{ Moment:2019-03-05T19:41:47.786Z , Message:::1 - - [05/Mar/2019:19:41:47 +0000] "GET /pagamentos/pagamento/40 HTTP/1.1" 200 151
+ }
+info:{ Moment:2019-03-05T19:43:02.511Z , Message:::1 - - [05/Mar/2019:19:43:02 +0000] "GET /pagamentos/pagamento/40 HTTP/1.1" 200 151
+ }
+{"message":"::1 - - [05/Mar/2019:19:45:36 +0000] \"GET /pagamentos/pagamento/40 HTTP/1.1\" 200 151\n","level":"info"}
+{"message":"::1 - - [05/Mar/2019:19:46:50 +0000] \"GET /pagamentos/pagamento/40 HTTP/1.1\" 200 151\n","level":"info"}
+{"message":"::1 - - [05/Mar/2019:20:08:22 +0000] \"GET /pagamentos/pagamento/40 HTTP/1.1\" 200 151\n","level":"info"}
